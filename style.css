@@ -1,0 +1,18 @@
+.btn-buy{
+    background:linear-gradient(to bottom,#FF589B, #ff2178);
+    padding: 9px 25px;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+}
+
+
+.bg-pink{
+    background-color: #fceae8 ;
+}
+
+.category img{
+    width: 100px;
+
+}
+
